@@ -1,0 +1,3 @@
+Averager	KEYWORD1
+averageData	KEYWORD2
+doneStatus	KEYWORD2
