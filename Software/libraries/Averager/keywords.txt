@@ -1,3 +1,6 @@
 Averager	KEYWORD1
 averageData	KEYWORD2
 doneStatus	KEYWORD2
+countValue	KEYWORD2
+maxCount	KEYWORD2
+arrayLength	KEYWORD2

@@ -34,8 +34,8 @@ class Averager {
 	
 	bool doneStatus() {return completeStatus;}
     uint16_t count() {return averageCount;}
-	uint16_t max_count() {return totalAverages;}
-	uint16_t arry_length() {return lengthOfArray;}
+	uint16_t maxCount() {return totalAverages;}
+	uint16_t arrayLength() {return lengthOfArray;}
 	
 	
 	
